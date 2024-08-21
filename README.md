@@ -34,5 +34,4 @@ Betik çalıştırıldığında, gelen kutunuzu 30 saniyede bir yeni e-postalar 
 
 ### Özelleştirme
 
-* **Otomatik Yanıt Şablonu:** Otomatik yanıtların içeriğini özelleştirmek için `mail.html` dosyasını düzenleyin. `[Gönderen Adı]` metni, e-postayı gönderen kişinin adıyla değiştirilecektir.
 * **Bildirim Mesajı:**  `bildirim_epostası_gönder` fonksiyonunu düzenleyerek bildirim mesajının formatını değiştirebilirsiniz.
